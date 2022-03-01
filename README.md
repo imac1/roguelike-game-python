@@ -1,6 +1,6 @@
-Roguelike game
+## Roguelike game
 
-Story
+### Story
 
 "La Speluna", a company from San Escobar contacted you and asked about creating a roguelike game for them. They didn't tell us much about their needs, only a few details about the game's framework. They are big fans of old-fashioned RPG games when graphics didn't matter that much, but the most important things were gameplay and a story.
 
@@ -12,14 +12,15 @@ What are you going to learn?
 
 You will learn and practice how to do the following things in Python:
 
-variables, functions, loops and conditionals,
-nested lists,
-dictionaries,
-print formatting,
-handling user input,
-error handling,
-clean code.
-Tasks
+- variables, functions, loops and conditionals,
+- nested lists,
+- dictionaries,
+- print formatting,
+- handling user input,
+- error handling,
+- clean code.
+
+## Tasks
 
 Implement a basic board generator function to return a rectangular board of the given size.
 
